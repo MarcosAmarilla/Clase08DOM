@@ -1,0 +1,14 @@
+body{
+    background-color: lightyellow;
+}
+
+h1{
+    margin-top: 300px;
+    color: rgb(8, 80, 80);
+    font-size 60px;
+}
+
+p{
+    color: mediumslateblue;
+    font-size: 30px;
+}
